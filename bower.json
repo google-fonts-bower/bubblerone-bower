@@ -1,0 +1,17 @@
+{
+    "name": "bubblerone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Brenda Gallo"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/bubblerone-bower.git"
+    },
+    "description": "Bubbler One font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
